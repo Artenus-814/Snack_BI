@@ -9,6 +9,4 @@ bin/
 .idea/
 out/
 target/
-.vscode/
-.DS_Store
 Thumbs.db
