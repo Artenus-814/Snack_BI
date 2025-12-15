@@ -1,0 +1,12 @@
+
+.settings/
+*.class
+scores.txt
+*.log
+.classpath
+.project
+bin/
+.idea/
+out/
+target/
+
