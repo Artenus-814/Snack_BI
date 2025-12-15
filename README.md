@@ -127,4 +127,4 @@ Légende: `*` mur, `@` tête, `o` corps, `x` fruit, ` ` vide.
 
 
 ## Auteur
-- Mouhamed El Moustapha FAYE
+- Mouhamed El Moustapha FAYE 
