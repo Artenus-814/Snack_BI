@@ -1,0 +1,14 @@
+
+.settings/
+*.class
+scores.txt
+*.log
+.classpath
+.project
+bin/
+.idea/
+out/
+target/
+.vscode/
+.DS_Store
+Thumbs.db
