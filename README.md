@@ -7,7 +7,6 @@
 
 - Dépôt public: https://github.com/Artenus-814/Snack_BI
 
-
 ## Affichage du Plateau
 Légende: `*` mur, `@` tête, `o` corps, `x` fruit, ` ` vide.
 
